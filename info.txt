@@ -1,0 +1,4 @@
+Jednoduchá databáze osob v c# WINDOWS FORMS
+
+- data se ukládají/ načítají do data.xml
+

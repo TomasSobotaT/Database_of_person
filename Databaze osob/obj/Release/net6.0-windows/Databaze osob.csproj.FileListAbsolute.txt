@@ -1,0 +1,20 @@
+C:\Projekty\Databaze osob\Databaze osob\bin\Release\net6.0-windows\Databaze osob.exe
+C:\Projekty\Databaze osob\Databaze osob\bin\Release\net6.0-windows\Databaze osob.deps.json
+C:\Projekty\Databaze osob\Databaze osob\bin\Release\net6.0-windows\Databaze osob.runtimeconfig.json
+C:\Projekty\Databaze osob\Databaze osob\bin\Release\net6.0-windows\Databaze osob.dll
+C:\Projekty\Databaze osob\Databaze osob\bin\Release\net6.0-windows\Databaze osob.pdb
+C:\Projekty\Databaze osob\Databaze osob\obj\Release\net6.0-windows\Databaze osob.csproj.AssemblyReference.cache
+C:\Projekty\Databaze osob\Databaze osob\obj\Release\net6.0-windows\Databaze_osob.editForm.resources
+C:\Projekty\Databaze osob\Databaze osob\obj\Release\net6.0-windows\Databaze_osob.FormHlavni.resources
+C:\Projekty\Databaze osob\Databaze osob\obj\Release\net6.0-windows\Databaze_osob.pridatForm.resources
+C:\Projekty\Databaze osob\Databaze osob\obj\Release\net6.0-windows\Databaze_osob.Properties.Resources.resources
+C:\Projekty\Databaze osob\Databaze osob\obj\Release\net6.0-windows\Databaze osob.csproj.GenerateResource.cache
+C:\Projekty\Databaze osob\Databaze osob\obj\Release\net6.0-windows\Databaze osob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekty\Databaze osob\Databaze osob\obj\Release\net6.0-windows\Databaze osob.AssemblyInfoInputs.cache
+C:\Projekty\Databaze osob\Databaze osob\obj\Release\net6.0-windows\Databaze osob.AssemblyInfo.cs
+C:\Projekty\Databaze osob\Databaze osob\obj\Release\net6.0-windows\Databaze osob.csproj.CoreCompileInputs.cache
+C:\Projekty\Databaze osob\Databaze osob\obj\Release\net6.0-windows\Databaze osob.dll
+C:\Projekty\Databaze osob\Databaze osob\obj\Release\net6.0-windows\refint\Databaze osob.dll
+C:\Projekty\Databaze osob\Databaze osob\obj\Release\net6.0-windows\Databaze osob.pdb
+C:\Projekty\Databaze osob\Databaze osob\obj\Release\net6.0-windows\Databaze osob.genruntimeconfig.cache
+C:\Projekty\Databaze osob\Databaze osob\obj\Release\net6.0-windows\ref\Databaze osob.dll
